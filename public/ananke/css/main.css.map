@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "E:/Tutorial/StaticSiteGenerator/Hugo/MyProfile/quickstart",
+	"sourceRoot": "E:/GitHub/Mahdi-Savoji.github.io",
 	"sources": [
 		"ananke/css/main.css"
 	],
